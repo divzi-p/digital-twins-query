@@ -1,0 +1,5 @@
+C:\Users\diperuma\git\iot\DigitalTwinsQuery\obj\Debug\netcoreapp3.1\DigitalTwinsQuery.csproj.AssemblyReference.cache
+C:\Users\diperuma\git\iot\DigitalTwinsQuery\obj\Debug\netcoreapp3.1\DigitalTwinsQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diperuma\git\iot\DigitalTwinsQuery\obj\Debug\netcoreapp3.1\DigitalTwinsQuery.AssemblyInfoInputs.cache
+C:\Users\diperuma\git\iot\DigitalTwinsQuery\obj\Debug\netcoreapp3.1\DigitalTwinsQuery.AssemblyInfo.cs
+C:\Users\diperuma\git\iot\DigitalTwinsQuery\obj\Debug\netcoreapp3.1\DigitalTwinsQuery.csproj.CoreCompileInputs.cache
